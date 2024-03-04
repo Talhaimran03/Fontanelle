@@ -1,4 +1,5 @@
 # Fontanelle
+![Language](https://img.shields.io/badge/Language-Python-green?style=flat)
 
 <img src="https://github.com/Talhaimran03/Fontanelle/assets/101459540/c3a8cf97-1b39-4d5c-b2a3-5b898db69a3b" width="60%"><br>
 

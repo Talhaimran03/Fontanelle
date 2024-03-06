@@ -3,6 +3,8 @@
 
 <img src="https://github.com/Talhaimran03/Fontanelle/assets/101459540/c3a8cf97-1b39-4d5c-b2a3-5b898db69a3b" width="60%"><br>
 
+Try bot: <a>https://t.me/fontanelleVRbot</a>
+
 # Description: 
 ##Il nostro bot sarà la salvezza per quelle persone o animali che stanno morendo di sete,
 ##questo bot ti consentirà di vedere una mappa di tutte le fontanelle, oppure dirti la posizione della fontana più vicina,

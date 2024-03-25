@@ -3,7 +3,8 @@
 
 <img src="https://github.com/Talhaimran03/Fontanelle/assets/101459540/c3a8cf97-1b39-4d5c-b2a3-5b898db69a3b" width="60%"><br>
 
-Try bot: <a>https://t.me/fontanelleVRbot</a>
+<img src="https://github.com/Talhaimran03/Fontanelle/assets/101459540/489de593-5e9b-47e5-b053-9e741294a0d9" width="30%"><br>
+Try bot: <a>https://t.me/fontanelleVR_bot</a>
 
 ## Informazioni sul progetto
 Il nostro bot di telegram è la salvezza per tutti coloro che stanno morendo di sete a Verona e vorrano rinfrescarsi gratuitamente! 

@@ -29,6 +29,6 @@ Creare un file chiamato "token.txt" all'interno del progetto dove inserire il to
 Per eseguire il progetto su windows:<br>
 <br>-installare python
 <br>-verificare che python e pip siano chiamabili da terminale
-<br>-eseguire pip install python-telegram-bot
+<br>-eseguire pip install python-telegram-bot==13.13
 <br>-pip install requests
 <br>-pip install geopy
